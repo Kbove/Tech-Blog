@@ -29,5 +29,5 @@ Contributors: Me
 Tests: Very little
     
 ## Questions <a id="Question"></a>
-Frequently Asked Questions: Does it work? Right now the login route works, if you test it in insomnia you can log in with the seeded credentials and it will return with your sesssion info
+Frequently Asked Questions: Does it work? Right now the login and signup functionality work. Will add more later
     
