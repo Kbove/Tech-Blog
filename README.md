@@ -17,7 +17,7 @@ This is a work in progress. It starts with a login/signup page (there is already
 * [Questions](#Question)
     
 ## Installation <a id="Installation"></a>
-The following necessary dependencies must be installed to run the application: any browser
+The following necessary dependencies must be installed to run the application: Clone repo, navigate to repository in CMD prompt and then open in vs code, and view the handlebars main in default browser
     
 ## User Story <a id="Usage"></a>
 A simple application to help users share tech knowledge
